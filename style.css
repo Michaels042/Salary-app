@@ -1,0 +1,26 @@
+* {
+  background-color: teal;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15%;
+  /* transform: translateY(20%); */
+}
+#check {
+  transform: scale(2);
+  border: 5px solid grey;
+  padding: 1em;
+  text-decoration: none;
+  color: white;
+}
+#displaySalary {
+  margin-top: 5em;
+  color: white;
+  font-size: large;
+}
+h1 {
+  color: white;
+  margin-bottom: 3em;
+}
